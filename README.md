@@ -1,4 +1,4 @@
-# CVE Analysis Dashboard 📊
+# CVE Analysis Dashboard 📊 - UPDATED DAILY
 
 ## Introduction
 
