@@ -2,7 +2,7 @@ name: run generate_cve_heatmap.py
 
 on:
   schedule:
-    - cron: '30 2 * * *'
+    - cron: '0 1 * * *'
 
 jobs:
   build:
