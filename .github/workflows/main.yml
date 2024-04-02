@@ -1,4 +1,4 @@
-name: run generate_cve_heatmap.py
+name: run main
 
 on:
   schedule:
