@@ -1,8 +1,6 @@
-name: run main
+name: run on trigger
 
-on:
-  schedule:
-    - cron: '0 1 * * *'
+on: workflow_dispatch
 
 jobs:
   build:
@@ -36,4 +34,3 @@ jobs:
         with:
           github_token: ${{ secrets.COMMITTOKEN }}
           branch: main 
-
