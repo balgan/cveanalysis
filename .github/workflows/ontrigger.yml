@@ -22,6 +22,9 @@ jobs:
       - name: execute py script # run main.py
         run: python generate_cve_heatmap.py
 
+      - name: run epss
+        run: python generate_epss_analysis.py
+        
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
