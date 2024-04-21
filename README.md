@@ -21,6 +21,8 @@ The generated heatmaps include:
    ![CVEs Without References Heatmap](heatmap_no_references.png)
 3. **CVEs Without CPEs**: Highlights the daily CVEs that are missing CPEs.
    ![CVEs Without CPEs Heatmap](heatmap_no_cpes.png)
+4. **Median and Mean EPSS scores**: Monitor EPSS for changes overtime.
+   ![EPSS mean and median](epss_mean_median.png)
 
 ## Usage
 
