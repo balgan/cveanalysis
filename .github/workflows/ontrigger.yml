@@ -24,6 +24,9 @@ jobs:
 
       - name: run epss
         run: python generate_epss_analysis.py
+
+      - name: run CISA KEV script
+        run: python generate_cisa_kev_analysis.py
         
       - name: commit files
         run: |
