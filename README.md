@@ -25,6 +25,10 @@ The generated heatmaps include:
    ![EPSS mean and median](epss_mean_median.png)
 5. **EPSS for CISA KEV added after 2023**: Keeping track of EPSS on CISA KEV
    ![EPSS CISA KEV](heatmap_cisa_kev_epss.png)
+5. **CVSS for CISA KEV added after 2023**: Keeping track of EPSS on CISA KEV
+   ![EPSS CISA KEV](heatmap_cisa_kev_cvss.png)
+
+
 ## Usage
 
 To generate the heatmaps:
